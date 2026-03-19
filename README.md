@@ -1,4 +1,4 @@
-# 🚀 Medsosder v12 by NEUMORIX - Script Termux Downloader Terlengkap
+# 🚀 Medsosder v12 by RianFa Dev - Script Termux Downloader Terlengkap
 
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://python.org)
 [![Termux Support](https://img.shields.io/badge/Termux-Supported-green.svg)](https://termux.dev)
@@ -34,3 +34,31 @@ Ikuti panduan di bawah ini. **Salin dan tempel (copy-paste) perintah di bawah in
 1. Berikan Termux izin untuk mengakses penyimpanan internal Anda. (PENTING: Akan muncul *pop-up* di layar HP Anda, pilih "Izinkan" atau "Allow"):
 ```bash
 termux-setup-storage
+```
+2. Perbarui sistem package Termux ke versi terbaru:
+```bash
+pkg update && pkg upgrade -y
+```
+3. Instal Git untuk mengunduh repository ini:
+```bash
+pkg install git -y
+```
+4. Instal bahasa pemrograman Python:
+```bash
+pkg install python -y
+```
+5. Instal FFmpeg (Sangat wajib agar script bisa mengekstrak musik MP3 dan menggabungkan resolusi video tinggi):
+```bash
+pkg install ffmpeg -y
+```
+6. Pindah ke folder Download di memori internal HP Anda. (Ini bertujuan agar script dan file yang diunduh langsung berada di folder Download HP Anda):
+```bash
+cd ~/storage/downloads
+```
+
+
+
+
+
+
+
