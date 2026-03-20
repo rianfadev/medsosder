@@ -55,6 +55,32 @@ pkg install ffmpeg -y
 ```bash
 cd ~/storage/downloads
 ```
+7. Instal modul library Python
+```bash
+pip install yt-dlp
+```
+
+## 🚀 Cara Menjalankan Script
+Setelah semua langkah instalasi di atas berhasil dilakukan, Anda bisa menjalankan script ini kapan saja.
+Buka Termux, lalu masuk ke folder script yang ada di folder Download Anda:
+```bash
+cd ~/storage/downloads
+```
+Kemudian jalankan script utamanya:
+```bash
+python medsosder-v13.py
+```
+(Catatan: Sesuaikan medsosder-v13.py dengan nama file asli Anda jika Anda mengubahnya).
+
+## 🛠️ Tips & Troubleshooting
+Error saat mendownload? Pastikan link yang Anda masukkan benar, lengkap dengan https://, dan pastikan akun/postingan target tidak di-private (harus publik).
+Video tidak ada suaranya? Itu berarti Anda belum menginstal FFmpeg. Silakan jalankan kembali perintah pkg install ffmpeg -y.
+Selalu perbarui yt-dlp: Sosial media sering memperbarui sistem keamanan mereka. Jika script tiba-tiba gagal mengunduh, perbarui modul dengan perintah:
+```bash
+pip install -U yt-dlp
+```w
+
+
 
 
 
