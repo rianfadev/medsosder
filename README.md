@@ -1,12 +1,10 @@
-# 🚀 Medsosder v12
+# 🚀 Medsosder v13
 
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://python.org)
 [![Termux Support](https://img.shields.io/badge/Termux-Supported-green.svg)](https://termux.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Apakah Anda mencari cara mudah untuk mengunduh video dan musik dari berbagai platform media sosial langsung melalui Termux Android? **Medsosder v12** adalah script Python open-source terbaik untuk kebutuhan Anda. 
-
-Script ini dirancang khusus dengan antarmuka CLI yang interaktif (dilengkapi animasi loading *Hacker Style*) dan menggunakan `yt-dlp` serta `FFmpeg` untuk memastikan kualitas unduhan resolusi tertinggi secara otomatis.
 
 ## ✨ Fitur Utama
 - 📥 **Unduh Video & Musik (MP3)** dengan kualitas terbaik (HD/4K jika tersedia).
@@ -17,7 +15,7 @@ Script ini dirancang khusus dengan antarmuka CLI yang interaktif (dilengkapi ani
   - Instagram (Reels, IGTV, Post)
   - Facebook (Watch & Reels)
   - Twitter / X
-  - Snack Video
+  - Snack Video (Tanpa Watermark)
 - 🔄 **Auto-Merge & Audio Extract:** Menggabungkan video dan audio secara mulus atau mengekstraknya murni menjadi file MP3 berkat dukungan FFmpeg.
 
 ---
@@ -39,23 +37,19 @@ termux-setup-storage
 ```bash
 pkg update && pkg upgrade -y
 ```
-3. Instal Git untuk mengunduh repository ini:
-```bash
-pkg install git -y
-```
-4. Instal bahasa pemrograman Python:
+3. Instal bahasa pemrograman Python:
 ```bash
 pkg install python -y
 ```
-5. Instal FFmpeg (Sangat wajib agar script bisa mengekstrak musik MP3 dan menggabungkan resolusi video tinggi):
+4. Instal FFmpeg (Sangat wajib agar script bisa mengekstrak musik MP3 dan menggabungkan resolusi video tinggi):
 ```bash
 pkg install ffmpeg -y
 ```
-6. Pindah ke folder Download di memori internal HP Anda. (Ini bertujuan agar script dan file yang diunduh langsung berada di folder Download HP Anda):
+5. Pindah ke folder Download di memori internal HP Anda. (Ini bertujuan agar script dan file yang diunduh langsung berada di folder Download HP Anda):
 ```bash
 cd ~/storage/downloads
 ```
-7. Instal modul library Python
+6. Instal modul library Python
 ```bash
 pip install yt-dlp
 ```
@@ -82,10 +76,10 @@ pip install -U yt-dlp
 
 ## 📞 Kontak & Komunitas
 Script ini dibuat secara independen. Jika Anda merasa terbantu, dukung pengembangan lebih lanjut melalui:
-💬 Telegram: NEUMORIX
-☕ Donasi: s.id/donate-neumorix
+💬 Telegram: [NEUMORIX](https://youtube.com)
+☕ Donasi: [DONATE](https://instagram.com)
 📅 Tanggal Rilis: 14 Maret 2026
-Medsosder v12 - Dibuat dengan ♥︎ oleh RianFa Dev untuk Komunitas Open Source.
+Medsosder v12 - Dibuat dengan ♥︎ oleh RianFa Dev.
 
 
 
