@@ -80,7 +80,7 @@ Selalu perbarui yt-dlp: Sosial media sering memperbarui sistem keamanan mereka. 
 pip install -U yt-dlp
 ```
 
-##📞 Kontak & Komunitas
+## 📞 Kontak & Komunitas
 Script ini dibuat secara independen. Jika Anda merasa terbantu, dukung pengembangan lebih lanjut melalui:
 💬 Telegram: NEUMORIX
 ☕ Donasi: s.id/donate-neumorix
