@@ -1,4 +1,4 @@
-# 🚀 Medsosder v12 by RianFa Dev - Script Termux Downloader Terlengkap
+# 🚀 Medsosder v12
 
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://python.org)
 [![Termux Support](https://img.shields.io/badge/Termux-Supported-green.svg)](https://termux.dev)
@@ -85,7 +85,7 @@ Script ini dibuat secara independen. Jika Anda merasa terbantu, dukung pengemban
 💬 Telegram: NEUMORIX
 ☕ Donasi: s.id/donate-neumorix
 📅 Tanggal Rilis: 14 Maret 2026
-Medsosder v12 - Dibuat dengan ♥︎ oleh NEUMORIX untuk Komunitas Open Source.
+Medsosder v12 - Dibuat dengan ♥︎ oleh RianFa Dev untuk Komunitas Open Source.
 
 
 
