@@ -78,7 +78,14 @@ Video tidak ada suaranya? Itu berarti Anda belum menginstal FFmpeg. Silakan jala
 Selalu perbarui yt-dlp: Sosial media sering memperbarui sistem keamanan mereka. Jika script tiba-tiba gagal mengunduh, perbarui modul dengan perintah:
 ```bash
 pip install -U yt-dlp
-```w
+```
+
+##📞 Kontak & Komunitas
+Script ini dibuat secara independen. Jika Anda merasa terbantu, dukung pengembangan lebih lanjut melalui:
+💬 Telegram: NEUMORIX
+☕ Donasi: s.id/donate-neumorix
+📅 Tanggal Rilis: 14 Maret 2026
+Medsosder v12 - Dibuat dengan ♥︎ oleh NEUMORIX untuk Komunitas Open Source.
 
 
 
