@@ -76,9 +76,13 @@ pip install -U yt-dlp
 
 ## 📞 Kontak & Komunitas
 Script ini dibuat secara independen. Jika Anda merasa terbantu, dukung pengembangan lebih lanjut melalui:
+
 💬 Telegram: [RianFaDev](https://youtube.com)
+
 ☕ Donasi: [Donate](https://instagram.com)
+
 📅 Tanggal Rilis: 14 Maret 2026
+
 **_Medsosder v12 - Dibuat dengan ♥︎ oleh RianFa Dev._**
 
 
