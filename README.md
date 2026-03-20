@@ -77,8 +77,11 @@ pip install -U yt-dlp
 ## 📞 Kontak & Komunitas
 Script ini dibuat secara independen. Jika Anda merasa terbantu, dukung pengembangan lebih lanjut melalui:
 💬 Telegram: [NEUMORIX](https://youtube.com)
+
 ☕ Donasi: [DONATE](https://instagram.com)
+
 📅 Tanggal Rilis: 14 Maret 2026
+
 Medsosder v12 - Dibuat dengan ♥︎ oleh RianFa Dev.
 
 
