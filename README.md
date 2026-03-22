@@ -4,7 +4,7 @@
 [![Termux Support](https://img.shields.io/badge/Termux-Supported-green.svg)](https://termux.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Apakah Anda mencari cara mudah untuk mengunduh video dan musik dari berbagai platform media sosial langsung melalui Termux Android? **Medsosder v12** adalah script Python open-source terbaik untuk kebutuhan Anda. 
+Apakah Anda mencari cara mudah untuk mengunduh video dan musik dari berbagai platform media sosial langsung melalui Termux Android? **Medsosder v13** adalah script Python open-source terbaik untuk kebutuhan Anda. 
 
 ## ✨ Fitur Utama
 - 📥 **Unduh Video & Musik (MP3)** dengan kualitas terbaik (HD/4K jika tersedia).
