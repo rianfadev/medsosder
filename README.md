@@ -81,9 +81,9 @@ Script ini dibuat secara independen. Jika Anda merasa terbantu, dukung pengemban
 
 ☕ Donasi: [Donate](https://instagram.com)
 
-📅 Tanggal Rilis: 14 Maret 2026
+📅 Tanggal Rilis: 20 Maret 2026
 
-**_Medsosder v12 - Dibuat dengan ♥︎ oleh RianFa Dev._**
+**_Medsosder v13 - Dibuat dengan ♥︎ oleh RianFa Dev._**
 
 
 
