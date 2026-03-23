@@ -77,9 +77,11 @@ pip install -U yt-dlp
 ## 📞 Kontak & Komunitas
 Script ini dibuat secara independen. Jika Anda merasa terbantu, dukung pengembangan lebih lanjut melalui:
 
-💬 Telegram: [RianFaDev](https://youtube.com)
+▶️ YouTube: [RianFa Dev](https://youtube.com/@rianfadev)
 
-☕ Donasi: [Donate](https://instagram.com)
+💬 Telegram: [RianFa Dev](https://youtube.com)
+
+☕ Donasi: [Donate](https://raw.githubusercontent.com/rianfadev/Qris/refs/heads/main/Qris.jpg)
 
 📅 Tanggal Rilis: 20 Maret 2026
 
