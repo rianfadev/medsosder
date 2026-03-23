@@ -85,7 +85,7 @@ Script ini dibuat secara independen. Jika Anda merasa terbantu, dukung pengemban
 
 ▶️ YouTube: [RianFa Dev](https://youtube.com/@rianfadev)
 
-💬 Telegram: [RianFa Dev](https://youtube.com)
+💬 Telegram: [RianFa Dev](https://t.me/rianfadev)
 
 ☕ Donasi: [Donate](https://raw.githubusercontent.com/rianfadev/Qris/refs/heads/main/Qris.jpg)
 
