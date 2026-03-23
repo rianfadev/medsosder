@@ -18,6 +18,12 @@ Apakah Anda mencari cara mudah untuk mengunduh video dan musik dari berbagai pla
   - Snack Video (Tanpa Watermark)
 - 🔄 **Auto-Merge & Audio Extract:** Menggabungkan video dan audio secara mulus atau mengekstraknya murni menjadi file MP3 berkat dukungan FFmpeg.
 
+## Screenshot
+![Pilihan Platform](ss1.png)
+![Pilihan Download](ss2.png)
+![Pilihan Resolusi](ss3.png)
+![Setelah Download](ss4.png)
+
 ---
 
 ## ⚠️ Disclaimer (Peringatan Penggunaan)
